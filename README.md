@@ -53,21 +53,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Your Name - [GitHub Profile](your-github-profile-link)
+- Your Name - [GitHub Profile][(your-github-profile-link)](https://github.com/nobojit-m)
 
 ## 🙏 Acknowledgments
 
 - Font Awesome for icons
 - Swiper.js for image slider
 - Google Fonts for typography
-- Images sourced from [source-name]
 
-## 📞 Contact
 
-For any queries or suggestions, please reach out:
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](your-linkedin-profile)
-- Portfolio: [Your Portfolio](your-portfolio-website)
 
 ---
-Made with ❤️ in Bangladesh
